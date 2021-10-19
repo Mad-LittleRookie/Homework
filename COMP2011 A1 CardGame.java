@@ -21,7 +21,7 @@ import java.util.Arrays;
  * 
  * The class {@code Card} is at the end of this file.
  */
-public class CardGame_20084459d_ZHOUTuohan { // Please change!
+public class CardGame { // Please change!
 
     /**
      * VERY IMPORTANT.
