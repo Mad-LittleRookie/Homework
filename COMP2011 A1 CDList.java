@@ -14,7 +14,7 @@ package comp2011.a1;
  * You are not allowed to use the {@code insert} method or write a method that adding nodes to a list.
  * 
  */
-public class CDList_20084459d_ZHOUTuohan { // Please change! In Eclipse, press Alt-Shift-R on the class name.
+public class CDList { // Please change! In Eclipse, press Alt-Shift-R on the class name.
     class DNode {
         int element;
         DNode previous, next;
