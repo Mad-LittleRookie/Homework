@@ -19,7 +19,7 @@ import java.util.Arrays;
  * e.g., for input {1.25, 0, 1.25, 2.5, 10, 2.5, 1.25, 5, 2.5}, the output should be  
  * [0.0 (1), 1.25 (0), 1.25 (2), 1.25 (6), 2.5 (3), 2.5 (5), 2.5 (8), 5.0 (7), 10.0 (4)].
  */
-public class Sorting_20084459d_ZHOUTuohan { // Please change!
+public class Sorting { // Please change!
 	/*
 	 * Each element has a double value and the original position in the input array. 
 	 */
